@@ -112,8 +112,6 @@
 		D0261148183F0A0900590005 /* Attributor */ = {
 			isa = PBXGroup;
 			children = (
-				D0261151183F0A0900590005 /* AttributorAppDelegate.h */,
-				D0261152183F0A0900590005 /* AttributorAppDelegate.m */,
 				D0261154183F0A0900590005 /* Main.storyboard */,
 				D0261157183F0A0900590005 /* AttributorViewController.h */,
 				D0261158183F0A0900590005 /* AttributorViewController.m */,
@@ -126,6 +124,8 @@
 		D0261149183F0A0900590005 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D0261151183F0A0900590005 /* AttributorAppDelegate.h */,
+				D0261152183F0A0900590005 /* AttributorAppDelegate.m */,
 				D026114A183F0A0900590005 /* Attributor-Info.plist */,
 				D026114B183F0A0900590005 /* InfoPlist.strings */,
 				D026114E183F0A0900590005 /* main.m */,
